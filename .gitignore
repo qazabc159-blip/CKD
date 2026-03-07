@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Data files
+data/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.db
+
+# Model artifacts
+*.pkl
+*.joblib
+*.onnx
+*.pt
+*.pth
+artifacts/
+models/
+
+# Terraform / CDK / AWS
+.terraform/
+cdk.out/
+*.tfstate
+*.tfstate.*
+*.pem
+
+# Coverage / cache
+.coverage
+pytest_cache/
+.mypy_cache/
