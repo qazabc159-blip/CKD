@@ -1,0 +1,49 @@
+ckd-automl-platform/
+├─ README.md
+├─ PROJECT_STATUS.md
+├─ .gitignore
+├─ requirements.txt
+├─ docs/
+│  ├─ thesis/
+│  │  ├─ abstract.md
+│  │  ├─ thesis_outline.md
+│  │  ├─ chapter3_methodology_notes.md
+│  │  └─ chapter4_system_design_notes.md
+│  ├─ architecture/
+│  │  ├─ aws_architecture.md
+│  │  └─ 完整研究架構圖.png
+│  ├─ dataset/
+│  │  ├─ data_design_spec.md
+│  │  └─ dataset_candidates.md
+│  └─ experiments/
+│     ├─ experiment_plan.md
+│     └─ metrics_definition.md
+├─ web/
+│  ├─ README.md
+│  ├─ src/
+│  ├─ public/
+│  └─ package.json
+├─ backend/
+│  ├─ README.md
+│  ├─ api_contract.md
+│  └─ app/
+│     └─ .gitkeep
+├─ training/
+│  ├─ README.md
+│  ├─ notebooks/
+│  │  └─ .gitkeep
+│  ├─ src/
+│  │  └─ .gitkeep
+│  └─ configs/
+│     └─ .gitkeep
+├─ infra/
+│  ├─ README.md
+│  ├─ aws_target_architecture.md
+│  └─ placeholder/
+│     └─ .gitkeep
+├─ data_schema/
+│  ├─ schema_template.json
+│  └─ feature_dictionary_template.csv
+└─ assets/
+   └─ images/
+      └─ .gitkeep
