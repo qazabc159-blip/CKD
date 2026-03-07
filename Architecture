@@ -1,0 +1,20 @@
+ckd-automl-platform/
+├─ README.md
+├─ .gitignore
+├─ docs/
+│  ├─ thesis-notes/
+│  ├─ architecture/
+│  │  └─ 完整研究架構圖.png
+│  └─ meeting-notes/
+├─ web/
+│  └─ (你現在的 UI)
+├─ backend/
+│  └─ (未來 API / Lambda)
+├─ training/
+│  └─ (未來 AutoPrognosis code)
+├─ infra/
+│  └─ (未來 AWS CDK / Terraform)
+├─ data_schema/
+│  └─ schema_template.json
+└─ experiments/
+   └─ results/
