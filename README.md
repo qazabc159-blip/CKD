@@ -1,3 +1,19 @@
+## Development Stage Summary
+This repository is currently in the planning and prototype stage.
+
+Completed:
+- thesis abstract draft
+- AWS architecture design
+- frontend UI prototype
+
+Pending:
+- dataset selection
+- preprocessing pipeline
+- model training
+- backend integration
+- AWS deployment
+
+The next milestone is to finalize dataset design and run the first local modeling experiment.
 # CKD AutoML Platform
 
 An academic and engineering project for the design and implementation of an AWS-based AutoML platform for Chronic Kidney Disease (CKD) risk prediction using AutoPrognosis 2.0.
