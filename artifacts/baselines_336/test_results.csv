@@ -1,0 +1,4 @@
+model_name,estimator_label,fallback_note,auroc,auprc,accuracy,precision,recall_sensitivity,specificity,f1_score,brier_score
+logistic_regression,LogisticRegression,xgboost unavailable; using HistGradientBoostingClassifier fallback,0.9773333333333333,0.9888406183337717,0.9375,0.9411764705882353,0.96,0.9,0.9504950495049505,0.054728394569871316
+random_forest,RandomForestClassifier,xgboost unavailable; using HistGradientBoostingClassifier fallback,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.008189166666666668
+hist_gradient_boosting,HistGradientBoostingClassifier,xgboost unavailable; using HistGradientBoostingClassifier fallback,1.0,1.0,0.9875,1.0,0.98,1.0,0.98989898989899,0.004682702986121159
